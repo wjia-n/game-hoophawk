@@ -1,0 +1,5 @@
+package com.gameswajiha.hoophawk
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
